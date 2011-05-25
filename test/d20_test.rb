@@ -1,6 +1,4 @@
-require 'rubygems'
-require 'minitest/autorun'
-require 'roly-poly/d20'
+require 'test_helper'
 
 describe Roly::Poly::D20 do
   describe "#roll" do
